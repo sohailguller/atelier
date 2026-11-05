@@ -1,0 +1,10 @@
+node_modules/
+templates/.deps/
+output/
+build/
+build-holistic/
+.env*
+!.env.example
+.DS_Store
+context.md
+ARTIFACT.md

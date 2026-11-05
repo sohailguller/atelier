@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Atelier launcher — resolves the real install dir (works through `npm link` symlinks).
+SRC="$(readlink -f "${BASH_SOURCE[0]}")"
+ROOT="$(cd "$(dirname "$SRC")/.." && pwd)"
+exec "$ROOT/node_modules/.bin/tsx" "$ROOT/src/cli/main.tsx" "$@"

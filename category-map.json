@@ -1,0 +1,48 @@
+{
+  "dev-tool": {
+    "references": [
+      "linear.app",
+      "railway.app",
+      "resend.com",
+      "clerk.com",
+      "supabase.com",
+      "railway.com"
+    ],
+    "visualVocabulary": [
+      "product-ui",
+      "line-art-diagram",
+      "code-diff",
+      "data-viz"
+    ],
+    "productSurfaces": [
+      "editable-diff",
+      "command-palette",
+      "clickable-window-rows"
+    ],
+    "compositionPatterns": [
+      "editorial-split-header"
+    ],
+    "contentBands": [
+      "logo-marquee",
+      "changelog"
+    ],
+    "iconLibrary": {
+      "primary": "streamline",
+      "fallback": "phosphor"
+    },
+    "logoSource": "svgl",
+    "interactions": [
+      "functional-product",
+      "subtle-fade",
+      "smooth-collapse"
+    ],
+    "accent": "from-tokens",
+    "screenedAt": "2026-07-16T21:02:32.136Z"
+  },
+  "recruiting-crm": {
+    "references": [
+      "workable.com"
+    ],
+    "screenedAt": "2026-11-04T09:01:01.391Z"
+  }
+}

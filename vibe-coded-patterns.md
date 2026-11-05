@@ -1,9 +1,9 @@
 # Vibe-Coded Patterns — the "avoid" rubric
 
-> Source research: a manual review of 500+ vibe-coded websites. This is the authoritative
-> "avoid" list. The critic subagent checks output against it; the deterministic hooks
-> enforce the mechanical subset. The LLM prompt at the end is the builder's design
-> discipline. Preserved verbatim.
+> **This is not my work.** It's the [Vibe Coded Website Report](https://docs.google.com/document/d/e/2PACX-1vTnLEdwSF1HPkuwOkuNneXGCaQAw5N2nnRf7cX_B4zuBLf2VTMi4Yh59gqS-eeVqYpa11iFQYmRjVBW/pub)
+> by [Aftermark AI](https://www.aftermark.ai), an analysis of 500+ vibe-coded websites. All credit for the
+> research and the LLM prompt below goes to them. It's kept here unchanged because Atelier's
+> critic checks its output against this list and the builder uses the prompt at the end.
 
 ---
 

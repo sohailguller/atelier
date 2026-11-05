@@ -41,7 +41,7 @@ uses — the edge is the rails, not the model.
 Not a better model — the same Claude. The bet is that **our rails beat no rails.** Generic
 tools are Claude Code with nothing clamped on, so they improvise the exact things that
 look cheap. Ours is the identical engine with rails built from real design-system
-extraction plus the 500-site research. The rails live in four places:
+extraction plus Aftermark AI's 500-site research (vibe-coded-patterns.md). The rails live in four places:
 
 - Pipeline ORDER (route → extract → build → critic) = the process.
 - Builder subagent system prompt (inherit grammar, never clone skeleton, every value from

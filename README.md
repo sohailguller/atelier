@@ -1,6 +1,6 @@
 # Atelier
 
-A CLI that takes a one-line prompt like "build a prediction market app" and builds a website that actually looks designed, instead of the generic AI-website look (purple gradients, sparkle emojis, mismatched corner radii, "Revolutionize your workflow" hero copy). The full list of what it avoids is in [`vibe-coded-patterns.md`](vibe-coded-patterns.md).
+A CLI that takes a one-line prompt like "build a prediction market app" and builds a website that actually looks designed, instead of the generic AI-website look (purple gradients, sparkle emojis, mismatched corner radii, "Revolutionize your workflow" hero copy). The list of what it avoids comes from Aftermark AI's [Vibe Coded Website Report](https://docs.google.com/document/d/e/2PACX-1vTnLEdwSF1HPkuwOkuNneXGCaQAw5N2nnRf7cX_B4zuBLf2VTMi4Yh59gqS-eeVqYpa11iFQYmRjVBW/pub), their analysis of 500+ sites. Their research is what Atelier's checks are built on (copy in [`vibe-coded-patterns.md`](vibe-coded-patterns.md)).
 
 The trick is not letting the model make up the design. It:
 
